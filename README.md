@@ -14,7 +14,7 @@ Copyright © 2025 heyalk.dev
 
 📦 **Tabel Data Master**
 
-![Tabel Data Master ](screenshots/tabel-data-master.png)
+![Menu Data Master ](screenshots/menu-data-master.png)
 
 🔐 **Form Login**
 
