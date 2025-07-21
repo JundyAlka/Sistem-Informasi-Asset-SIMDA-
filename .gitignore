@@ -1,0 +1,103 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore environment files
+.env
+.env.*
+!.env.example
+
+# Ignore Composer files
+/vendor/
+composer.lock
+composer.phar
+
+# Ignore Node.js files
+/node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore cache and logs
+/cache/*
+!cache/.gitkeep
+/logs/*
+!logs/.gitkeep
+
+# Ignore uploads directory
+/uploads/*
+!/uploads/.gitkeep
+
+# Ignore database files
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+
+# Ignore large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Ignore XAMPP files
+/xampp/
+/xampp/*
+
+# Ignore application logs
+/application/logs/*
+!/application/logs/index.html
+!/application/logs/.gitkeep
+
+# Ignore user_guide
+/user_guide/
+
+# Ignore temp files
+/temp/
+*.tmp
+*.temp
+
+# Ignore session files
+/application/session/*
+!/application/session/index.html
+!/application/session/.gitkeep
+
+# Ignore cache files
+/application/cache/*
+!/application/cache/index.html
+!/application/cache/.gitkeep
+
+# Ignore user uploads
+/application/uploads/*
+!/application/uploads/index.html
+!/application/uploads/.gitkeep
+
+# Ignore config overrides
+/application/config/config.local.php
+/application/config/database.local.php
+
+# Ignore large directories
+/assets/upload/
+/assets/images/uploads/
