@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://sistem-informasi-asset-simda.vercel.app/';
+$config['base_url'] = 'http://localhost/simda-revisi-final/sim_aset/';
 /*
 |--------------------------------------------------------------------------
 | Index File
